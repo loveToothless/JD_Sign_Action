@@ -45,4 +45,4 @@
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
-last run 2021.05.16
+last update 2021.06.26
